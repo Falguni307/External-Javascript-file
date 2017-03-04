@@ -1,5 +1,5 @@
 (function (window) {
-var names = ["Tom", "Jerry", "Jenna", "Jules", "Sean", "Falguni", "Bumblebee", "Starry", "Lynn", "John"];
+var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 for (var i in names) {
 
